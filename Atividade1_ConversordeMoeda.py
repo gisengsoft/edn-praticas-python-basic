@@ -5,8 +5,8 @@
 
 # Valores fixos
 valor_reais = 100.00
-taxa_dolar = 5.20
-taxa_euro = 6.15
+taxa_dolar = 5.58
+taxa_euro = 6.38
 
 # Conversão
 valor_dolar = valor_reais / taxa_dolar
